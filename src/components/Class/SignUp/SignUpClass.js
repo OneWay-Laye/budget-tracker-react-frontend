@@ -18,6 +18,6 @@ handleChange = event => this.setState({
 onSignUp = event => {
   event.preventDefault()
 
-  const 
+  const
 }
 }

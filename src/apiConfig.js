@@ -1,6 +1,6 @@
 let apiUrl
 const apiUrls = {
-  production: 'https://ball-up-api.herokuapp.com',
+  production: '#',
   development: 'http://localhost:8000'
 }
 
